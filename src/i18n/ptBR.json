@@ -1,0 +1,88 @@
+{
+  "name": "CARLOS MIGUEL BOROSCHETZKY NOWATZKI",
+  "profession": "Desenvolvedor Front-End ",
+  "age": "Idade: 20 Anos",
+  "contact": "Contato",
+  "location": "Localização",
+  "myself": "Me considero uma pessoa que busca sempre auxiliar próximo para ingressarem na sociedade respeitando os princípios da igualdade, fraternidade e justiça. Tenho muito foco no que sou destinado a fazer e meu principio é a força de vontade! Estou sempre a procura de novidades no meu ramo...",
+  "goOut": "Curto jogar bola nas minhas horas vagas, ficar com minha namorada, sair com meus amigos e ter um tempo para a família!",
+  "menu": [
+    {
+      "id": 1,
+      "path": "/",
+      "name": "Sobre"
+    },
+    {
+      "id": 2,
+      "path": "/carreira",
+      "name": "Carreira"
+    },
+    {
+      "id": 3,
+      "path": "/aprendizados",
+      "name": "Aprendizados"
+    }
+  ],
+  "skill": "Habilidades",
+  "course": "Cursos",
+  "college": "Formação",
+  "skills": [
+    {
+      "technologie": "Front-end",
+      "skills": ["VueJS", "ReactJS", "Angular 8", "ASP.NET", "Twig"]
+    },
+    {
+      "technologie": "Back-end",
+      "skills": ["PHP", "C#", "NodeJS", "Java", "Python"]
+    },
+    {
+      "technologie": "Testes",
+      "skills": ["Jest", "Cypress"]
+    },
+    {
+      "technologie": "Ferramentas",
+      "skills": [
+        "Webpack", "Vite", "Babel", "ESLint", "Prettier", "Husky", "Git", "StoryBook", "TypeScript"
+      ]
+    },
+    {
+      "technologie": "CI/CD",
+      "skills": ["Jenkins", "GitHub Actions", "AWS"]
+    }
+  ],
+  "system": "Análise e Desenvolvimento de Sistemas",
+  "trained": "Graduando em Ciencia da computação (5 semestre)",
+  "experience": "Experiências",
+  "tech": "Tecnologias",
+  "project": "Projetos",
+  "experiences": [
+    {
+      "company": "Oston",
+      "time": "Setembro de 2021/ Até o momento",
+      "title": "FRONT-END DEVELOPER",
+      "technologies": "Vue.JS, Node.JS, AWS, Javascript, GitHub Actions, SCSS, CSS, ReactJS, HTML para e-mail marketing, Tailwind CSS, Laravel - PHP, Jetstream, Inertia + Vue.",
+      "text": "Inicialmente entrei na empresa e fui designado a função de programador do sistesma Flexxi, onde constituia em um Dashboard para a configuração de Cashbacks para os colaboradores da empresa que contratasse o sistema. Após algumas urgências, passei a atuar realizando a configuração em projetos Claro, Oi, Vivo e Tim"
+    },
+    {
+      "company": "Dooca Commerce",
+      "time": "Agosto de 2020/ Setembro de 2021",
+      "title": "WEB DEVELOPER",
+      "technologies": "Vue.JS, Node.JS, React.Js, Javascript, Twig, PHP7 - Laravel, Lumen, Symfony, Composer, Doctrine, Eloquent, MySQL, AWS, API REST, SOAP ",
+      "text": "Consultoria adequada direta após diagnóstico de demandas. Identificar as necessidades e demandas de acordo com a solicitação. Inteligência Comunicacional. Identificar o problema do aplicação e resolvê-la com a necessidade. Trabalho diretamente com Bugs ocasionados na aplicação de produção, junto com a manutenção do dashbord contruindo em Twig e o novo com Vue.JS. Trabalho com a Bridge e o banco com o sistema de filas para as integrações, trabalhando com PHP7 e Laravel. Desenvolvimento e manutenção de API REST e Integrações SOAP. Ex.: Mailchimp, Bling ERP, Tiny ERP, Mailbiz, SalesForce"
+    },
+    {
+      "company": "HailTech",
+      "time": "Junho de 2018 / Agosto de 2020",
+      "title": "FRONT-END DEVELOPER",
+      "technologies": "Vue.JS, Flutter, Nodejs, Netlify, Heroku, Angular, HTML, CSS, React.JS, JavaScript",
+      "text": "Desenvolvedor front-end web nesta Startup onde trabalhei em painéis administrativos e em diversos projetos diferentes, com diversas tecnologias. Responsável pelo projeto Agroseris 20 e 21 em Angular. Implementações de funcionalidades específicas para cada projeto de acordo com a necessidade."
+    },
+    {
+      "company": "CM Agência",
+      "time": "Março de 2015 /Até o momento",
+      "title": "WEB DEVELOPER",
+      "technologies": "Vue.js, ReactJS, NodeJS, JavaScript, TypeScript, Twig, NEXT.js, CSS, HTML, SCSS, PHP - Laravel, Python (nivel intermediario), Java (nivel basico)",
+      "text": "A ideia da CM agência surgiu aos meus 13 anos quando comecei a estudar sobre programação, a empresa veio a surgir com a ideia de realizar um sistema de gestão para a loja do meu Pai, onde precisaríamos realizar o controle de vendas junto com o estoque da loja, realizei a implementação do sistema utilizando a linguagem de PHP na época! Basicamente a primeira versão do aplicativo era realizado com PHP puro sem utilização de nenhum framework, a função do sistema constituía com entrada de mercadoria e saída, e com isso fazia a soma dos produtos vendidos e dos valores dando baixa nos estoques. Com o passar do tempo apresentei a ideia para alguns amigos do meu pai onde realizei a venda do sistema para cada um deles, sendo ao todo 5 pessoas. Depois da experiencia que tive com este sistema me deu a ideia de criar a CM agência, onde com o passar do tempo fui construindo Landing Pages para meus clientes e sistemas, fiquei em torno de 3 anos somente atuando como Freela pela somente pela agência, mas em 2019 ingressei na Hailtech onde tive a primeira oportunidade de atuar pela empresa, onde cresci como pessoa e aprendi como atuar em equipe, posteriormente a entrada na empresa continuei a atuar como Freelancer pela minha agência, mas com um trabalho extra, por fora da empresa onde atuava, nas minhas horas vagas, onde sigo este modelo até hoje."
+    }
+  ]
+}
