@@ -7,7 +7,7 @@ module.exports = {
       },
     },
   },
-  siteName: "Fernando Rogelin",
+  siteName: "Carlos Nowatzki",
   plugins: [
     {
       use: "gridsome-plugin-i18n",
