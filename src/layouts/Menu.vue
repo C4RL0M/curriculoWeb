@@ -22,11 +22,11 @@
           :class="{ language: this.$i18n.locale.toString() === 'pt-br' }"
         >Português</button>
         |
-        <button
+        <!-- <button
           @click="changeLocale('en')"
           class="Wrapper-menu-languages-link"
           :class="{ language: this.$i18n.locale.toString() === 'en-eu' }"
-        >English</button>
+        >English</button> -->
       </div>
     </div>
     <div class="Wrapper-screens" :class="{ closeSubmenu: disable }">
