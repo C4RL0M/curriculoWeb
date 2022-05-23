@@ -4,7 +4,7 @@ Este projeto tem como principal função, apresentar o código que foi usado na 
 
 ### 1. Primeiramente clone o repositório
 
-`git clone https://github.com/FernandoRogelin/curriculo-website.git`
+`git clone https://github.com/C4RL0M/curriculoWeb.git`
 
 ### 2. Instale as dependências
 
